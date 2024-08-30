@@ -1,0 +1,10 @@
+import "time"
+import "strings"
+import "decimal"
+
+import "tfrun"
+
+# Destroy実行しないでください。
+main = rule {
+	tfrun.is_destroy is false
+}
