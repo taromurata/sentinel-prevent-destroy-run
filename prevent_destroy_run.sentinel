@@ -2,5 +2,5 @@ import "tfrun"
 
 # Destroy実行しないでください。
 main = rule {
-	tfrun.is_destroy is true
+	tfrun.is_destroy is false
 }
