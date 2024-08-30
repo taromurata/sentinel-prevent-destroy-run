@@ -1,7 +1,3 @@
-import "time"
-import "strings"
-import "decimal"
-
 import "tfrun"
 
 # Destroy実行しないでください。
